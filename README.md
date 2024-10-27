@@ -69,7 +69,7 @@ QQNT 防撤回依赖于 [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteL
 ## ❤️投喂
 
 觉的好用的话，可以支持哟ヾ(･ω･`｡) 
-
+![](https://github.com/panwangvie/RevokeMsgPatcher/blob/master/Images/panwangvie_appreciation.jpg?raw=true)
 
 ## 📄License
 [GPLv3](https://github.com/huiyadanli/RevokeMsgPatcher/blob/master/LICENSE)
