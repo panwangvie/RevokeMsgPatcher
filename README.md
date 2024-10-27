@@ -68,9 +68,8 @@ QQNT 防撤回依赖于 [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteL
 
 ## ❤️投喂
 
-觉的好用的话，可以支持作者哟ヾ(･ω･`｡) 
-* [⚡爱发电](https://afdian.com/@huiyadanli)
-* [🍚微信赞赏](https://github.com/huiyadanli/huiyadanli/blob/master/DONATE.md)
+觉的好用的话，可以支持哟ヾ(･ω･`｡) 
+
 
 ## 📄License
 [GPLv3](https://github.com/huiyadanli/RevokeMsgPatcher/blob/master/LICENSE)
